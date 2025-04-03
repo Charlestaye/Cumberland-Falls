@@ -4,5 +4,5 @@
 
 ![Cumberland Falls](Layout.jpg)  _Cumberland Falls_
 
-![Screenshot of Cumberland Falls animation](videothumbnail.png) _[Flythrough animation](https://youtu.be/noViZBiYFp)_
+![Screenshot of Cumberland Falls animation](videothumbnail.png) _[Flythrough animation](https://www.youtube.com/watch?v=noViZBiYFpA)_
 
